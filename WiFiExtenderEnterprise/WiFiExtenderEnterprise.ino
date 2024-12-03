@@ -7,8 +7,8 @@ const char *ssid = "eduroam";              // Eduroam SSID
 
 int counter = 0;
 
-#define AP_SSID "WAP32"
-#define AP_PASS "wimunet!"
+#define AP_SSID "AP_SSID"
+#define AP_PASS "XXXXXXXX"
 
 IPAddress ap_ip(192, 168, 4, 1);
 IPAddress ap_mask(255, 255, 255, 0);
